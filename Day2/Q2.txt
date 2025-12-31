@@ -1,0 +1,33 @@
+Question: Student Result Management System (OOPS)
+
+Write a Python program to create a Student class with the following requirements:
+
+Data Members
+
+name – student name
+
+roll_no – roll number
+
+marks – list of marks in 5 subjects
+
+Member Functions
+
+get_data() – accept student details and marks
+
+total_marks() – calculate and return total marks
+
+average_marks() – calculate and return average marks
+
+grade() – assign grade based on average:
+
+≥ 90 → A
+
+≥ 75 → B
+
+≥ 60 → C
+
+< 60 → D
+
+display() – display all student details, total, average, and grade
+
+Create one object of the class and demonstrate all methods.
