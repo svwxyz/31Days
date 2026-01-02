@@ -1,0 +1,18 @@
+Write a Python program that:
+
+Takes a list of integers from the user
+
+Finds and prints:
+
+The largest number
+
+The smallest number
+
+The sum of all elements
+
+The average of the elements
+
+🔹 Example
+
+Input:
+[10, 20, 30, 40]
